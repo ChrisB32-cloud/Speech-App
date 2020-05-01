@@ -42,7 +42,7 @@ const data = [
   },
   {
     image: './img/outside.jpg',
-    text: 'I Want To Go Outside'
+    text: 'I Want To Go Outside And Play'
   },
   {
     image: './img/home.jpg',
